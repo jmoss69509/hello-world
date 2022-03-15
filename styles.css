@@ -1,0 +1,6 @@
+body {
+    background-color: azure;
+    border: 2px solid darkblue ;
+    border-top: 5px solid red;
+    border-radius: 15px 5px 5px 15px;
+}
