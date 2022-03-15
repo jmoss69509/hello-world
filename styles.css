@@ -1,3 +1,6 @@
+body {
+    background-color: white;
+}
 
 h1 {
     color: bisque;
@@ -8,9 +11,9 @@ p {
 }
 #mainContainer {
     border-radius: 5px;
-    background-color: blue;
+    background-color: whitesmoke;
     padding: 10px;
     margin: 10px;
-    width: 33pc;
+    width: 50%;
     height: auto;
 }
