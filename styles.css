@@ -8,7 +8,7 @@ h1 {
 }
 p {
     background-color: pink;
-    border: 2px solid red;
+    border: 2px solid rgb(247, 169, 2);
 }
 #mainContainer {
     border-radius: 5px;
