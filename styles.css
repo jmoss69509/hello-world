@@ -3,7 +3,8 @@ body {
 }
 
 h1 {
-    color: bisque;
+    color: rgb(250, 139, 3);
+    text-shadow: 4px 4px 4px rgb(24, 23, 23);
 }
 p {
     background-color: pink;
@@ -16,4 +17,9 @@ p {
     margin: 10px;
     width: 50%;
     height: auto;
+}
+:hover h1 {
+    transition-delay: 1s, 250ms;
+    transition-property: color;
+    color:blueviolet;
 }
